@@ -28,7 +28,7 @@
     "wordpress wp bcrypt password"
   ],
   "support": {
-    "issues": "https://github.com/jamesmorrison/wp-password-bcrypt/issues",
+    "issues": "https://github.com/jamesmorrison/wp-password-bcrypt/issues"
   },
   "require": {
     "php": ">=5.5.0",
