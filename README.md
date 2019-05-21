@@ -20,7 +20,7 @@ This plugin is a Composer library so it can be installed in a few ways:
 
 #### Composer Autoloaded
 
-`composer require roots/wp-password-bcrypt`
+`composer require jamesmorrison/wp-password-bcrypt`
 
 `wp-password-bcrypt.php` file will be automatically autoloaded by Composer and it *won't* appear in your plugins.
 
