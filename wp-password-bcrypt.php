@@ -5,7 +5,7 @@
  * Description: Replaces wp_hash_password and wp_check_password with PHP 5.5's password_hash and password_verify. Updated to WordPress Extra code standards.
  * Author:      James Morrison, Roots
  * Author URI:  https://www.jamesmorrison.me
- * Version:     1.2.0
+ * Version:     1.3.0
  * Licence:     MIT
  */
 
