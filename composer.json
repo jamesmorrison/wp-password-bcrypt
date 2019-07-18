@@ -3,7 +3,7 @@
   "license": "MIT",
   "description": "WordPress plugin which replaces wp_hash_password and wp_check_password's phpass hasher with PHP 5.5's password_hash and password_verify using bcrypt.",
   "homepage": "https://github.com/jamesmorrison/wp-password-bcrypt/",
-  "type": "wordpress-plugin",
+  "type": "wordpress-mu-plugin",
   "authors": [
     {
 		"name": "James Morrison",
